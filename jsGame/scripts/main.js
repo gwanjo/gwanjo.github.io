@@ -1,2 +1,2 @@
 var myHeading = document.querySelector('h1');
-myHeading.textContent = 'Hello JS';
+myHeading.textContent = 'Hello JS++';
